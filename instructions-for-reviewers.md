@@ -4,7 +4,7 @@ Many thanks for participating in the Artefact Evaluation Committee. In the follo
 
 # Anonymity
 
-We are in favour of 
+We are in favour of Open Review, i.e. reviewers are encouraged (but not obliged) to review with their names in the clear. Please consider if you want to participate in this form of review.
 
 # Approach
 
